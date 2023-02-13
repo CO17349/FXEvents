@@ -16,7 +16,7 @@ public class ResizableCircleRectangle extends Application {
     @Override
     public void start(Stage stage) {
 
-        circle.setFill(Color.ALICEBLUE);
+        circle.setFill(Color.GOLDENROD);
         rectangle.setFill(Color.WHITE);
         rectangle.setStroke(Color.BLACK);
         pane.getChildren().addAll(rectangle, circle);
